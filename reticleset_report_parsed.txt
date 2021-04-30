@@ -1,0 +1,115 @@
+[code]
+-- LAYER DEFINITION --
+ 
+- Layer Number: 101
+  - Layer ID: 1_NW
+ 
+- Layer Number: 102
+  - Layer ID: 2_NWPAD
+ 
+- Layer Number: 103
+  - Layer ID: 3_V3
+ 
+- Layer Number: 104
+  - Layer ID: 6_NW2
+ 
+- Layer Number: 105
+  - Layer ID: 4_RES
+ 
+- Layer Number: 106
+  - Layer ID: 5_WIRING
+ 
+ 
+ 
+-- RETICLE DATA --
+
+Layer: 1_NW
+
+ - Image: ncd049_processed.gds
+    - Reticle ID: NBSE39-00 
+    - Image Shift: ( -28.6, +28.6 )
+ 
+ - Image: ncd050_processed.gds
+    - Reticle ID: NBSE39-00 
+    - Image Shift: ( +28.6, +28.6 )
+ 
+ - Image: ncd051_processed.gds
+    - Reticle ID: NBSE39-00 
+    - Image Shift: ( -28.6, -28.6 )
+ 
+
+Layer: 2_NWPAD
+
+ - Image: ncd049_processed.gds
+    - Reticle ID: NBSE39-00 
+    - Image Shift: ( +28.6, -28.6 )
+ 
+ - Image: ncd050_processed.gds
+    - Reticle ID: NBSE39-01 
+    - Image Shift: ( -28.6, +28.6 )
+ 
+ - Image: ncd051_processed.gds
+    - Reticle ID: NBSE39-01 
+    - Image Shift: ( +28.6, +28.6 )
+ 
+
+Layer: 3_V3
+
+ - Image: ncd049_processed.gds
+    - Reticle ID: NBSE39-01 
+    - Image Shift: ( -28.6, -28.6 )
+ 
+ - Image: ncd050_processed.gds
+    - Reticle ID: NBSE39-01 
+    - Image Shift: ( +28.6, -28.6 )
+ 
+ - Image: ncd051_processed.gds
+    - Reticle ID: NBSE39-02 
+    - Image Shift: ( -28.6, +28.6 )
+ 
+
+Layer: 6_NW2
+
+ - Image: ncd049_processed.gds
+    - Reticle ID: NBSE39-02 
+    - Image Shift: ( +28.6, +28.6 )
+ 
+ - Image: ncd050_processed.gds
+    - Reticle ID: NBSE39-02 
+    - Image Shift: ( -28.6, -28.6 )
+ 
+ - Image: ncd051_processed.gds
+    - Reticle ID: NBSE39-02 
+    - Image Shift: ( +28.6, -28.6 )
+ 
+
+Layer: 4_RES
+
+ - Image: ncd049_processed.gds
+    - Reticle ID: NBSE39-03 
+    - Image Shift: ( -28.6, +28.6 )
+ 
+ - Image: ncd050_processed.gds
+    - Reticle ID: NBSE39-03 
+    - Image Shift: ( +28.6, +28.6 )
+ 
+ - Image: ncd051_processed.gds
+    - Reticle ID: NBSE39-03 
+    - Image Shift: ( -28.6, -28.6 )
+ 
+
+Layer: 5_WIRING
+
+ - Image: ncd049_processed.gds
+    - Reticle ID: NBSE39-03 
+    - Image Shift: ( +28.6, -28.6 )
+ 
+ - Image: ncd050_processed.gds
+    - Reticle ID: NBSE39-04 
+    - Image Shift: ( -28.6, +28.6 )
+ 
+ - Image: ncd051_processed.gds
+    - Reticle ID: NBSE39-04 
+    - Image Shift: ( +28.6, +28.6 )
+  
+[/code]

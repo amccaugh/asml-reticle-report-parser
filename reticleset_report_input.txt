@@ -1,0 +1,119 @@
+
+
+Reticle NBSE39-00  (for ASML 5500/100D)
+Runtime: 2 hours 11 minutes
+    Cell name:toplevel  GDS File: ncd049_processed.gds
+    Layer Name:6500 Layer Number: 101 Tone: inverted  Mirrored: no
+    Reticle position name: A
+    Center coordinates: x=-28.6 y=28.6
+    Image Size: width=50 height=50
+
+    Cell name:toplevel  GDS File: ncd050_processed.gds
+    Layer Name:6500 Layer Number: 101 Tone: inverted  Mirrored: no
+    Reticle position name: B
+    Center coordinates: x=28.6 y=28.6
+    Image Size: width=50 height=50
+
+    Cell name:toplevel  GDS File: ncd051_processed.gds
+    Layer Name:6500 Layer Number: 101 Tone: inverted  Mirrored: no
+    Reticle position name: C
+    Center coordinates: x=-28.6 y=-28.6
+    Image Size: width=50 height=50
+
+    Cell name:toplevel  GDS File: ncd049_processed.gds
+    Layer Name:6600 Layer Number: 102 Tone: not inverted  Mirrored: no
+    Reticle position name: D
+    Center coordinates: x=28.6 y=-28.6
+    Image Size: width=50 height=50
+
+Reticle NBSE39-01  (for ASML 5500/100D)
+Runtime: 2 hours 9 minutes
+    Cell name:toplevel  GDS File: ncd050_processed.gds
+    Layer Name:6600 Layer Number: 102 Tone: not inverted  Mirrored: no
+    Reticle position name: A
+    Center coordinates: x=-28.6 y=28.6
+    Image Size: width=50 height=50
+
+    Cell name:toplevel  GDS File: ncd051_processed.gds
+    Layer Name:6600 Layer Number: 102 Tone: not inverted  Mirrored: no
+    Reticle position name: B
+    Center coordinates: x=28.6 y=28.6
+    Image Size: width=50 height=50
+
+    Cell name:toplevel  GDS File: ncd049_processed.gds
+    Layer Name:6700 Layer Number: 103 Tone: not inverted  Mirrored: no
+    Reticle position name: C
+    Center coordinates: x=-28.6 y=-28.6
+    Image Size: width=50 height=50
+
+    Cell name:toplevel  GDS File: ncd050_processed.gds
+    Layer Name:6700 Layer Number: 103 Tone: not inverted  Mirrored: no
+    Reticle position name: D
+    Center coordinates: x=28.6 y=-28.6
+    Image Size: width=50 height=50
+
+Reticle NBSE39-02  (for ASML 5500/100D)
+Runtime: 2 hours 10 minutes
+    Cell name:toplevel  GDS File: ncd051_processed.gds
+    Layer Name:6700 Layer Number: 103 Tone: not inverted  Mirrored: no
+    Reticle position name: A
+    Center coordinates: x=-28.6 y=28.6
+    Image Size: width=50 height=50
+
+    Cell name:toplevel  GDS File: ncd049_processed.gds
+    Layer Name:6800 Layer Number: 104 Tone: inverted  Mirrored: no
+    Reticle position name: B
+    Center coordinates: x=28.6 y=28.6
+    Image Size: width=50 height=50
+
+    Cell name:toplevel  GDS File: ncd050_processed.gds
+    Layer Name:6800 Layer Number: 104 Tone: inverted  Mirrored: no
+    Reticle position name: C
+    Center coordinates: x=-28.6 y=-28.6
+    Image Size: width=50 height=50
+
+    Cell name:toplevel  GDS File: ncd051_processed.gds
+    Layer Name:6800 Layer Number: 104 Tone: inverted  Mirrored: no
+    Reticle position name: D
+    Center coordinates: x=28.6 y=-28.6
+    Image Size: width=50 height=50
+
+Reticle NBSE39-03  (for ASML 5500/100D)
+Runtime: 2 hours 9 minutes
+    Cell name:toplevel  GDS File: ncd049_processed.gds
+    Layer Name:6900 Layer Number: 105 Tone: not inverted  Mirrored: no
+    Reticle position name: A
+    Center coordinates: x=-28.6 y=28.6
+    Image Size: width=50 height=50
+
+    Cell name:toplevel  GDS File: ncd050_processed.gds
+    Layer Name:6900 Layer Number: 105 Tone: not inverted  Mirrored: no
+    Reticle position name: B
+    Center coordinates: x=28.6 y=28.6
+    Image Size: width=50 height=50
+
+    Cell name:toplevel  GDS File: ncd051_processed.gds
+    Layer Name:6900 Layer Number: 105 Tone: not inverted  Mirrored: no
+    Reticle position name: C
+    Center coordinates: x=-28.6 y=-28.6
+    Image Size: width=50 height=50
+
+    Cell name:toplevel  GDS File: ncd049_processed.gds
+    Layer Name:6A00 Layer Number: 106 Tone: not inverted  Mirrored: no
+    Reticle position name: D
+    Center coordinates: x=28.6 y=-28.6
+    Image Size: width=50 height=50
+
+Reticle NBSE39-04  (for ASML 5500/100D)
+Runtime: 1 hour 9 minutes
+    Cell name:toplevel  GDS File: ncd050_processed.gds
+    Layer Name:6A00 Layer Number: 106 Tone: not inverted  Mirrored: no
+    Reticle position name: A
+    Center coordinates: x=-28.6 y=28.6
+    Image Size: width=50 height=50
+
+    Cell name:toplevel  GDS File: ncd051_processed.gds
+    Layer Name:6A00 Layer Number: 106 Tone: not inverted  Mirrored: no
+    Reticle position name: B
+    Center coordinates: x=28.6 y=28.6
+    Image Size: width=50 height=50
